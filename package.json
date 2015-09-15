@@ -1,0 +1,19 @@
+{
+  "name": "idowhatiwant",
+  "version": "0.0.1",
+  "description": "WHATEVER. I DO WHAT I WANT!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayphelps/idowhatiwant.git"
+  },
+  "author": "Jay Phelps <hello@jayphelps.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayphelps/idowhatiwant/issues"
+  },
+  "homepage": "https://github.com/jayphelps/idowhatiwant#readme"
+}
